@@ -6,6 +6,8 @@ This page is an overview of the standard rules, regulation, and judging criteria
 ### Competition Standards
 
 ### Robot Styles
-> [Weapon Styles] (WeaponStyles.md)
-> [Drive Styles] (DriveStyles.md)
+> [Weapon Styles](WeaponStyles.md)
+
+> [Drive Styles](DriveStyles.md)
+
 > Other Archetypes
