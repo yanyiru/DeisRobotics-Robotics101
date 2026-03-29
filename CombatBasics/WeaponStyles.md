@@ -15,15 +15,7 @@ Beater bars/eggbeaters are a wide, rectangular vertical spinning weapons. They t
   <img src="img\ares.png" height="300" /> 
 </p>
 
-<figure>
-    <img src= "img\pinevictus.png" height="300" />
-    <figcaption> Pinevictus, 2025 3lb World Champion
-</figure>
-
-<figure>
-    <img src= "img\ares.png" height="300" />
-    <figcaption> Ares, 2x 30lb Golden Dumpster Winner
-</figure>
+[Left: Pinevictus, 2025 3lb World Champion | Right: Ares, 2x 30lb Golden Dumpster]
 
 ### Disk
 
