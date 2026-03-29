@@ -15,9 +15,11 @@ Beater bars/eggbeaters are a wide, rectangular vertical spinning weapons. They t
   <img src="img\ares.png" height="300" /> 
 </p>
 
-[Left: Pinevictus, 2025 3lb World Champion | Right: Ares, 2x 30lb Golden Dumpster]
+[Left: [Pinevictus](https://wiki.nhrl.io/wiki/index.php?title=Pinevictus), 2025 3lb World Champion | Right: [Ares](https://wiki.nhrl.io/wiki/index.php?title=ARES), 2x 30lb Golden Dumpster]
 
 ### Disk
+
+
 
 ### Drisk
 
