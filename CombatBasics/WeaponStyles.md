@@ -11,8 +11,8 @@ Vertical spinners are weapons that spin perpendicular to the ground. Typically, 
 Beater bars/eggbeaters are a wide, rectangular vertical spinning weapons. They take advantage of their high coverage and optimal moment of inertia. 
 
 <p float="center">
-  <img src= "img\pinevictus.png" height="15%" />
-  <img src="img\ares.png" height="15%" /> 
+  <img src= "img\pinevictus.png" height="100" />
+  <img src="img\ares.png" height="100" /> 
 </p>
 
 ### Disk
